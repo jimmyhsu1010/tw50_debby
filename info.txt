@@ -1,0 +1,9 @@
+qgr = scrapy.Field()
+qopr = scrapy.Field()
+qnir = scrapy.Field()
+qroe = scrapy.Field()
+qroa = scrapy.Field()
+
+//table[2]//tr[position()>=2 and position() <=6]/td[2]//text()
+
+site = https://tw.stock.yahoo.com/d/s/company_2330.html
